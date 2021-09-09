@@ -1,4 +1,4 @@
-# neuroGAM
+# neuroGAM - cloned from "https://github.com/kaushik-l/neuroGAM"
 This is a MATLAB package to fit generalised additive models (GAM) to neural data. If your primary goal is to fit a generalised linear model (GLM), consider using dedicated packages available elsewhere (e.g. [this](https://github.com/pillowlab/neuroGLM) or [that](https://github.com/pillowlab/GLMspiketools)).
 
 ## Model
