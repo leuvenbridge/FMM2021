@@ -1,0 +1,3 @@
+[submodule "GAM/GAM/neuroGAM"]
+	path = GAM/GAM/neuroGAM
+	url = https://github.com/kaushik-l/neuroGAM.git
